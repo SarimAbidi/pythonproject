@@ -1,0 +1,1 @@
+{"sarim": {"password": "sarim", "balance": 90.0, "transactions": [{"type": "Deposit", "amount": 100.0}, {"type": "Withdraw", "amount": 10.0}]}, "abc": {"password": "abc", "balance": 0.0, "transactions": []}}
